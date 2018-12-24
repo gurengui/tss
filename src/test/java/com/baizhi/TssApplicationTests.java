@@ -65,6 +65,11 @@ public class TssApplicationTests {
         });
     }
 
+    @Test
+    public void test2(){
+        System.out.println("hhhh");
+    }
+
 
 }
 
