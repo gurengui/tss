@@ -64,12 +64,5 @@ public class TssApplicationTests {
             System.out.println(poetries);
         });
     }
-
-    @Test
-    public void test2(){
-        System.out.println("hhhh");
-    }
-
-
 }
 
